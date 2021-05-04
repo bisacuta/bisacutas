@@ -1,4 +1,4 @@
-# bisacutas
+# BISACUTAS
 
 > A double-edged sword / blade
 
